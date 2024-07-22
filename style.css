@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.btn{
+    width:80px;
+    height:80px;
+    border:2px solid ;
+    border-radius: 5px;
+    margin: 3px;
+}
+.box{
+    display: flex;
+    justify-content: center; 
+    margin-top: 10px;
+
+}
+.pink{
+    background-color:rgb(238, 5, 141);
+}
+.green{
+    background-color:rgb(7, 132, 112);
+}
+.blue{
+    background-color: rgb(5, 73, 151);
+}
+.yellow{
+    background-color: rgb(231, 235, 5);
+}
+h3{
+    margin:1px;
+    color:white;
+}
+h4{
+    margin:2px;
+    color:white;
+}
+
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(64, 12, 81);
+}
+.red{
+    background-color: red;
+}
